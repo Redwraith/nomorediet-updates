@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.2",
+          "buildVersion": "21",
+          "date": "2026-10-04",
+          "localizedDescription": "- Giorno 4: tolti crunch inverso/plank e affondi bulgari. Al loro posto alzate laterali al cavo (in coppia con l'hip thrust) e leg press piedi alti (glutei e femorali, in coppia con il calf).",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.2-21/Nomorediet.ipa",
+          "size": 10566138,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.1",
           "buildVersion": "20",
           "date": "2026-10-04",
