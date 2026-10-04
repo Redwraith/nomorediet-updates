@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "3.9",
+          "buildVersion": "18",
+          "date": "2026-10-04",
+          "localizedDescription": "- Aggiornamenti anche con Sideloadly: se SideStore non è installato, \"Aggiorna\" apre la pagina per scaricare la nuova versione.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v3.9-18/Nomorediet.ipa",
+          "size": 10109623,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "3.8",
           "buildVersion": "17",
           "date": "2026-10-04",
