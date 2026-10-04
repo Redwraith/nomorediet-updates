@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.4",
+          "buildVersion": "23",
+          "date": "2026-10-04",
+          "localizedDescription": "- Scheda con priorità a spalle e dorso: Giorno 1 parte da lat machine presa neutra e rematore monolaterale al cavo; Giorno 3 diventa \"spalle e dorso\" con lat pulldown presa larga, rematore monolaterale al cavo basso, alzate laterali al cavo e face pull. Alzate laterali 4 volte a settimana, deltoide posteriore 2 volte (face pull, alzate posteriori al cavo al posto del crunch).\n- Nuove animazioni: personaggio muscoloso in stile anime (fisico alla Baki) con muscoli disegnati, ombre a due toni, collo e trapezi possenti, vene sull'avambraccio; i muscoli che lavorano si \"pompano\" e si illuminano di rosso nel punto più duro della ripetizione.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.4-23/Nomorediet.ipa",
+          "size": 10585719,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.3",
           "buildVersion": "22",
           "date": "2026-10-04",
