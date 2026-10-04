@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.3",
+          "buildVersion": "22",
+          "date": "2026-10-04",
+          "localizedDescription": "- Tocca i secondi del recupero (es. \"75 s\") per far partire il timer; il timer resta visibile in alto mentre scorri la scheda.\n- Apple Watch: timer in nero su sfondo bianco, leggibile al volo.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.3-22/Nomorediet.ipa",
+          "size": 10575004,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.2",
           "buildVersion": "21",
           "date": "2026-10-04",
