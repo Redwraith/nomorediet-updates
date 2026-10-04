@@ -1,0 +1,34 @@
+{
+  "name": "Nomorediet",
+  "identifier": "app.piatto.ios.source",
+  "subtitle": "Aggiornamenti di Nomorediet",
+  "iconURL": "https://raw.githubusercontent.com/Redwraith/nomorediet-updates/main/icon.png",
+  "apps": [
+    {
+      "name": "Nomorediet",
+      "bundleIdentifier": "app.piatto.ios",
+      "developerName": "Nomorediet",
+      "subtitle": "Diario alimentare, peso e allenamento",
+      "localizedDescription": "Diario alimentare con riconoscimento dei pasti da foto, voce e testo, database di oltre 170.000 alimenti, peso, grafici e scheda di allenamento.",
+      "iconURL": "https://raw.githubusercontent.com/Redwraith/nomorediet-updates/main/icon.png",
+      "tintColor": "4DB880",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "3.8",
+          "buildVersion": "17",
+          "date": "2026-10-04",
+          "localizedDescription": "- Aggiornamenti dell'app via internet (OTA): ogni nuova versione viene pubblicata automaticamente come fonte SideStore. L'app controlla da sola, mostra un avviso \"Nuova versione disponibile\" e SideStore la installa con un tocco, senza perdere i dati. Sezione \"Aggiornamenti app\" in Profilo.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v3.8-17/Nomorediet.ipa",
+          "size": 10108976,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
