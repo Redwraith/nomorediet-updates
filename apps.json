@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.0",
+          "buildVersion": "19",
+          "date": "2026-10-04",
+          "localizedDescription": "- Foto senza cibo: prima di qualsiasi AI, il classificatore di immagini dell'iPhone controlla che nella foto ci sia davvero cibo. Un computer o una scrivania non diventano più \"una pagnotta\": l'app lo dice e non aggiunge niente (con \"È cibo, analizza comunque\" se si sbaglia). Anche Apple, Gemini e Claude ora devono dire esplicitamente se c'è cibo.\n- Tipo di dieta in Profilo: bilanciata, carb cycling, mediterranea, iperproteica, low carb, chetogenica. Con i giorni di allenamento della settimana.\n- Scheda: progressione a blocchi di 4 settimane sui primi due esercizi (3 serie → 4 serie → 4 serie +2,5% → scarico), gli altri 3 × 10–15. \"Cambia esercizio\" se la macchina è occupata, con le alternative animate. Testi non più sovrapposti.\n- Timer libero (preset o personalizzato) nella Dynamic Island, nella schermata di blocco e sull'Apple Watch.\n- Chat con il coach, scritta o a voce: risponde a voce e salva le serie che gli racconti (\"panca 60 kg 4x8\").\n- Promemoria integratori: multivitaminico ogni mattina; creatina 5 g dopo l'allenamento nei giorni di allenamento, al mattino nei giorni di riposo. \"Presa ✓\" dalla notifica o dalla schermata Oggi.\n- Palestra: quando arrivi da Fit Active (o la palestra che scegli) ti apre l'allenamento di oggi; quando esci dopo esserti allenato ti ricorda la creatina.\n- Il \"+\" sceglie il pasto dall'orario (colazione, spuntino, pranzo, cena); tocca il titolo per cambiarlo.\n- Nuove animazioni degli esercizi in stile anime: personaggio con contorni e ombre, scie di movimento, linee di velocità, muscolo che si illumina sotto sforzo.\n- Richiede iOS 18 o successivo.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.0-19/Nomorediet.ipa",
+          "size": 10424982,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "3.9",
           "buildVersion": "18",
           "date": "2026-10-04",
