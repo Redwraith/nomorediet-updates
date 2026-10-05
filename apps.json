@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9.4",
+          "buildVersion": "33",
+          "date": "2026-10-05",
+          "localizedDescription": "- Progressi: nuovo grafico dei passi, accanto a quelli del peso e delle calorie. Mostra 7 o 30 giorni, con la linea a 8.000 passi, la media giornaliera e quanti giorni l'hai superata. I passi arrivano da Apple Salute tramite il comando rapido.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.4-33/Nomorediet.ipa",
+          "size": 20568508,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.9.3",
           "buildVersion": "32",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- Scheda con priorità a spalle e dorso: Giorno 1 parte da lat machine presa neutra e rematore monolaterale al cavo; Giorno 3 diventa \"spalle e dorso\" con lat pulldown presa larga, rematore monolaterale al cavo basso, alzate laterali al cavo e face pull. Alzate laterali 4 volte a settimana, deltoide posteriore 2 volte (face pull, alzate posteriori al cavo al posto del crunch).\n- Nuove animazioni: personaggio muscoloso in stile anime (fisico alla Baki) con muscoli disegnati, ombre a due toni, collo e trapezi possenti, vene sull'avambraccio; i muscoli che lavorano si \"pompano\" e si illuminano di rosso nel punto più duro della ripetizione.",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.4-23/Nomorediet.ipa",
           "size": 10585719,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "4.3",
-          "buildVersion": "22",
-          "date": "2026-10-04",
-          "localizedDescription": "- Tocca i secondi del recupero (es. \"75 s\") per far partire il timer; il timer resta visibile in alto mentre scorri la scheda.\n- Apple Watch: timer in nero su sfondo bianco, leggibile al volo.",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.3-22/Nomorediet.ipa",
-          "size": 10575004,
           "minOSVersion": "18.0"
         }
       ],
