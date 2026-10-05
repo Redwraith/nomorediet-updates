@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.7",
+          "buildVersion": "26",
+          "date": "2026-10-05",
+          "localizedDescription": "- Primo avvio: la prima domanda è \"Sei un uomo o una donna?\". Calorie, proteine, scheda e animazioni si adattano: per le donne una scheda Nomorediet glutei e tonificazione e un personaggio atletico con la coda di cavallo; per gli uomini la scheda spalle e dorso e il personaggio muscoloso. Si cambia in Profilo.\n- Nuova app per Android (cartella android/): stesse funzioni principali, installabile scaricando un file .apk.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.7-26/Nomorediet.ipa",
+          "size": 10720609,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.6",
           "buildVersion": "25",
           "date": "2026-10-05",
