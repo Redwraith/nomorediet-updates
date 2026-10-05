@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9.5",
+          "buildVersion": "34",
+          "date": "2026-10-05",
+          "localizedDescription": "- \"Sincronizza Salute\" funziona anche con SideStore: avvia il comando rapido \"Nomorediet Salute\", che legge Salute e torna nell'app con i dati aggiornati. Lo trovi in Progressi (menu +), nel riquadro \"Oggi da Apple Salute\" (↻), in Profilo e trascinando verso il basso nel Coach.\n- Tutti i dati sanitari: l'azione \"Invia dati Salute a Nomorediet\" riceve anche battito medio, HRV, VO₂ max, grasso corporeo e piani saliti, oltre a passi, calorie, km, minuti di esercizio, peso, sonno e battito a riposo. La guida in Profilo spiega come prendere ognuno da Salute.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.5-34/Nomorediet.ipa",
+          "size": 20575474,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.9.4",
           "buildVersion": "33",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- La scheda è quella del tuo Google Calendar (Ciclo 2): A1 Petto/Schiena lunedì, A2 Quadricipiti/Adduttori martedì, B1 Spalle/Braccia giovedì, B2 Femorali/Glutei venerdì, con jump set, recuperi, dropset 🔻 e alternative \"se occupato\". Il giorno di oggi è segnato \"OGGI\".\n- Mesi del ciclo applicati da soli: mese 1 base, mese 2 tempo 3-1-1-0 e carichi −10%, scarico 12–18/10, mese 3 rest-pause e dropset doppi dal 19/10.\n- \"Aggiorna\" legge di nuovo la scheda dal Calendario dell'iPhone (con l'account Google aggiunto): un nuovo ciclo scritto nel Calendar arriva nell'app senza aggiornamenti. Puoi tornare alla scheda Nomorediet dal selettore.\n- Correggere gli errori: tocca una serie per cambiare peso, ripetizioni o RIR, oppure il cestino per eliminarla (con conferma). Nuovo \"Storico serie\" (icona orologio): modifica, scorri per eliminare o elimina un giorno intero.",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.5-24/Nomorediet.ipa",
           "size": 10707902,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "4.4",
-          "buildVersion": "23",
-          "date": "2026-10-04",
-          "localizedDescription": "- Scheda con priorità a spalle e dorso: Giorno 1 parte da lat machine presa neutra e rematore monolaterale al cavo; Giorno 3 diventa \"spalle e dorso\" con lat pulldown presa larga, rematore monolaterale al cavo basso, alzate laterali al cavo e face pull. Alzate laterali 4 volte a settimana, deltoide posteriore 2 volte (face pull, alzate posteriori al cavo al posto del crunch).\n- Nuove animazioni: personaggio muscoloso in stile anime (fisico alla Baki) con muscoli disegnati, ombre a due toni, collo e trapezi possenti, vene sull'avambraccio; i muscoli che lavorano si \"pompano\" e si illuminano di rosso nel punto più duro della ripetizione.",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.4-23/Nomorediet.ipa",
-          "size": 10585719,
           "minOSVersion": "18.0"
         }
       ],
