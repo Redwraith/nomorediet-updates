@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9.2",
+          "buildVersion": "31",
+          "date": "2026-10-05",
+          "localizedDescription": "- Apple Salute anche con SideStore: le app installate con un Apple ID gratuito non possono leggere Salute direttamente, quindi ora i dati arrivano da Comandi rapidi. La nuova azione \"Invia dati Salute a Nomorediet\" riceve passi, calorie attive e a riposo, peso, sonno, km e battito. Un'automazione serale li passa all'app anche quando è chiusa. La guida passo passo è in Profilo → Apple Salute.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.2-31/Nomorediet.ipa",
+          "size": 20550681,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.9.1",
           "buildVersion": "30",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- Giorno 4: tolti crunch inverso/plank e affondi bulgari. Al loro posto alzate laterali al cavo (in coppia con l'hip thrust) e leg press piedi alti (glutei e femorali, in coppia con il calf).",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.2-21/Nomorediet.ipa",
           "size": 10566138,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "4.1",
-          "buildVersion": "20",
-          "date": "2026-10-04",
-          "localizedDescription": "- Coach: non inventa più serie. Un saluto non diventa mai un allenamento: le serie vengono proposte solo se le dici con i numeri e si salvano solo dopo \"Salva\".\n- Voce del coach più realistica: voce neurale di Google se è collegata la chiave Gemini, altrimenti la migliore voce italiana dell'iPhone. Scelta uomo o donna e \"Prova la voce\".\n- Apple Salute: passi, km, calorie attive e a riposo, minuti di esercizio, piani, battito medio, FC a riposo, HRV, sonno, VO₂ max, grasso corporeo e allenamenti, da iPhone e Apple Watch senza doppi conteggi. Nuova scheda \"Oggi da Apple Salute\" in Progressi; il coach conosce questi dati.\n- Piano per dimagrire: scegli il peso da raggiungere (es. 80 kg) e la velocità; l'app calcola le calorie dal tuo mantenimento reale (Apple Salute o diario) meno il deficit, mostra la data del traguardo e il grafico. Dimagrire ora è sempre sotto il mantenimento (circa −550 kcal al giorno con il ritmo consigliato), mai sotto una soglia di sicurezza.\n- Conta ripetizioni su tutti gli esercizi: con la fotocamera (ora anche croci, crunch e calf; posa 3D che funziona da qualsiasi angolazione, filtro anti-errori, si calibra sul tuo movimento) o con i sensori dell'iPhone (in tasca, al braccio o sul pacco pesi).",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.1-20/Nomorediet.ipa",
-          "size": 10566231,
           "minOSVersion": "18.0"
         }
       ],
