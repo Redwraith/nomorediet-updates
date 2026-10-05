@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.8",
+          "buildVersion": "27",
+          "date": "2026-10-05",
+          "localizedDescription": "- Bilancia nella foto: se fotografi il cibo sulla bilancia da cucina, l'AI legge il peso sul display e lo usa come grammi (con più alimenti divide il totale in proporzione). Il peso netto stampato sulle confezioni non viene scambiato per la bilancia. Anche su Android.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.8-27/Nomorediet.ipa",
+          "size": 10722937,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.7",
           "buildVersion": "26",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- Aggiornamenti anche con Sideloadly: se SideStore non è installato, \"Aggiorna\" apre la pagina per scaricare la nuova versione.",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v3.9-18/Nomorediet.ipa",
           "size": 10109623,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "3.8",
-          "buildVersion": "17",
-          "date": "2026-10-04",
-          "localizedDescription": "- Aggiornamenti dell'app via internet (OTA): ogni nuova versione viene pubblicata automaticamente come fonte SideStore. L'app controlla da sola, mostra un avviso \"Nuova versione disponibile\" e SideStore la installa con un tocco, senza perdere i dati. Sezione \"Aggiornamenti app\" in Profilo.",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v3.8-17/Nomorediet.ipa",
-          "size": 10108976,
           "minOSVersion": "17.0"
         }
       ],
