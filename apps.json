@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9.1",
+          "buildVersion": "30",
+          "date": "2026-10-05",
+          "localizedDescription": "- Palestra: la ricerca non resta più bloccata quando il GPS al chiuso è impreciso (al massimo 8 secondi, poi usa la posizione migliore trovata). Ogni risultato ha il pulsante \"Scegli\". Cerca anche tra gli indirizzi.\n- Apple Salute: in Profilo, sotto l'interruttore, vedi se Salute è collegata davvero. Se non lo è, compare il motivo e il pulsante \"Collega Apple Salute\".",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.1-30/Nomorediet.ipa",
+          "size": 20527858,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.9",
           "buildVersion": "29",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- Coach: non inventa più serie. Un saluto non diventa mai un allenamento: le serie vengono proposte solo se le dici con i numeri e si salvano solo dopo \"Salva\".\n- Voce del coach più realistica: voce neurale di Google se è collegata la chiave Gemini, altrimenti la migliore voce italiana dell'iPhone. Scelta uomo o donna e \"Prova la voce\".\n- Apple Salute: passi, km, calorie attive e a riposo, minuti di esercizio, piani, battito medio, FC a riposo, HRV, sonno, VO₂ max, grasso corporeo e allenamenti, da iPhone e Apple Watch senza doppi conteggi. Nuova scheda \"Oggi da Apple Salute\" in Progressi; il coach conosce questi dati.\n- Piano per dimagrire: scegli il peso da raggiungere (es. 80 kg) e la velocità; l'app calcola le calorie dal tuo mantenimento reale (Apple Salute o diario) meno il deficit, mostra la data del traguardo e il grafico. Dimagrire ora è sempre sotto il mantenimento (circa −550 kcal al giorno con il ritmo consigliato), mai sotto una soglia di sicurezza.\n- Conta ripetizioni su tutti gli esercizi: con la fotocamera (ora anche croci, crunch e calf; posa 3D che funziona da qualsiasi angolazione, filtro anti-errori, si calibra sul tuo movimento) o con i sensori dell'iPhone (in tasca, al braccio o sul pacco pesi).",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.1-20/Nomorediet.ipa",
           "size": 10566231,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "4.0",
-          "buildVersion": "19",
-          "date": "2026-10-04",
-          "localizedDescription": "- Foto senza cibo: prima di qualsiasi AI, il classificatore di immagini dell'iPhone controlla che nella foto ci sia davvero cibo. Un computer o una scrivania non diventano più \"una pagnotta\": l'app lo dice e non aggiunge niente (con \"È cibo, analizza comunque\" se si sbaglia). Anche Apple, Gemini e Claude ora devono dire esplicitamente se c'è cibo.\n- Tipo di dieta in Profilo: bilanciata, carb cycling, mediterranea, iperproteica, low carb, chetogenica. Con i giorni di allenamento della settimana.\n- Scheda: progressione a blocchi di 4 settimane sui primi due esercizi (3 serie → 4 serie → 4 serie +2,5% → scarico), gli altri 3 × 10–15. \"Cambia esercizio\" se la macchina è occupata, con le alternative animate. Testi non più sovrapposti.\n- Timer libero (preset o personalizzato) nella Dynamic Island, nella schermata di blocco e sull'Apple Watch.\n- Chat con il coach, scritta o a voce: risponde a voce e salva le serie che gli racconti (\"panca 60 kg 4x8\").\n- Promemoria integratori: multivitaminico ogni mattina; creatina 5 g dopo l'allenamento nei giorni di allenamento, al mattino nei giorni di riposo. \"Presa ✓\" dalla notifica o dalla schermata Oggi.\n- Palestra: quando arrivi da Fit Active (o la palestra che scegli) ti apre l'allenamento di oggi; quando esci dopo esserti allenato ti ricorda la creatina.\n- Il \"+\" sceglie il pasto dall'orario (colazione, spuntino, pranzo, cena); tocca il titolo per cambiarlo.\n- Nuove animazioni degli esercizi in stile anime: personaggio con contorni e ombre, scie di movimento, linee di velocità, muscolo che si illumina sotto sforzo.\n- Richiede iOS 18 o successivo.",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.0-19/Nomorediet.ipa",
-          "size": 10424982,
           "minOSVersion": "18.0"
         }
       ],
