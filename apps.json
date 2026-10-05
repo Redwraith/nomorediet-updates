@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9",
+          "buildVersion": "29",
+          "date": "2026-10-05",
+          "localizedDescription": "- Riconoscitore di piatti sul telefono: un modello di Google addestrato su 2.000 piatti (Apache-2.0) funziona anche offline. Dà un secondo parere all'AI, conferma che nella foto c'è cibo e, se non hai collegato nessuna AI, registra il piatto più probabile con la sua porzione standard. Anche su Android.\n- Porzioni più precise: l'AI stima i grammi con la geometria. Prende come riferimento un oggetto di misura nota (piatto, forchetta, lattina, mano), ricava superficie e spessore di ogni alimento e poi volume × densità. Nella nota scrive quale riferimento ha usato.\n- Per sviluppatori: con il kit iPhone (scripts/iphone) Claude Code può provare l'app su un iPhone collegato via cavo, toccando i pulsanti per nome e controllando ogni schermata con uno screenshot.",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9-29/Nomorediet.ipa",
+          "size": 20517070,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.8",
           "buildVersion": "27",
           "date": "2026-10-05",
@@ -94,15 +103,6 @@
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.0-19/Nomorediet.ipa",
           "size": 10424982,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "3.9",
-          "buildVersion": "18",
-          "date": "2026-10-04",
-          "localizedDescription": "- Aggiornamenti anche con Sideloadly: se SideStore non è installato, \"Aggiorna\" apre la pagina per scaricare la nuova versione.",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v3.9-18/Nomorediet.ipa",
-          "size": 10109623,
-          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
