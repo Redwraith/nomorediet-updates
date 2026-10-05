@@ -20,7 +20,7 @@
           "date": "2026-10-05",
           "localizedDescription": "- Nuovo collegamento nomorediet://health: un comando rapido può passare i dati di Salute anche con \"Apri URL\", per esempio nomorediet://health?steps=8532&active=512&weight=84,6. I numeri vengono letti in qualunque formato (8.532, 84,6, 1,790.5).",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.3-32/Nomorediet.ipa",
-          "size": 20552680,
+          "size": 20552683,
           "minOSVersion": "18.0"
         },
         {
