@@ -20,7 +20,7 @@
           "date": "2026-10-05",
           "localizedDescription": "- Bilancia nella foto: se fotografi il cibo sulla bilancia da cucina, l'AI legge il peso sul display e lo usa come grammi (con più alimenti divide il totale in proporzione). Il peso netto stampato sulle confezioni non viene scambiato per la bilancia. Anche su Android.",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.8-27/Nomorediet.ipa",
-          "size": 10722937,
+          "size": 10722939,
           "minOSVersion": "18.0"
         },
         {
