@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9.3",
+          "buildVersion": "32",
+          "date": "2026-10-05",
+          "localizedDescription": "- Nuovo collegamento nomorediet://health: un comando rapido può passare i dati di Salute anche con \"Apri URL\", per esempio nomorediet://health?steps=8532&active=512&weight=84,6. I numeri vengono letti in qualunque formato (8.532, 84,6, 1,790.5).",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.3-32/Nomorediet.ipa",
+          "size": 20552680,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.9.2",
           "buildVersion": "31",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- Tocca i secondi del recupero (es. \"75 s\") per far partire il timer; il timer resta visibile in alto mentre scorri la scheda.\n- Apple Watch: timer in nero su sfondo bianco, leggibile al volo.",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.3-22/Nomorediet.ipa",
           "size": 10575004,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "4.2",
-          "buildVersion": "21",
-          "date": "2026-10-04",
-          "localizedDescription": "- Giorno 4: tolti crunch inverso/plank e affondi bulgari. Al loro posto alzate laterali al cavo (in coppia con l'hip thrust) e leg press piedi alti (glutei e femorali, in coppia con il calf).",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.2-21/Nomorediet.ipa",
-          "size": 10566138,
           "minOSVersion": "18.0"
         }
       ],
