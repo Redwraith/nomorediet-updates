@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.6",
+          "buildVersion": "25",
+          "date": "2026-10-05",
+          "localizedDescription": "- Accanto a Colazione, Pranzo, Spuntini e Cena ci sono due icone: 📷 foto e codice a barre, a un tocco.\n- Ogni foto cerca anche il codice a barre: se c'è, il prodotto viene preso dal database (valori esatti dell'etichetta). Altrimenti l'app legge il nome e il tipo di prodotto scritti sulla confezione e li usa per riconoscerlo (anche senza AI, cercandolo nel database).\n- Tolta la foto 3D (LiDAR).",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.6-25/Nomorediet.ipa",
+          "size": 10704179,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.5",
           "buildVersion": "24",
           "date": "2026-10-04",
