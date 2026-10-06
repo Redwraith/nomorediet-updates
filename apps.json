@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "4.9.6",
+          "buildVersion": "35",
+          "date": "2026-10-06",
+          "localizedDescription": "- Comando rapido più semplice: nei campi di \"Invia dati Salute a Nomorediet\" puoi mettere direttamente il risultato di \"Trova campioni di Salute\", senza \"Calcola statistiche\". L'app somma passi, calorie, km e minuti, fa la media di battito e HRV e converte il sonno in ore.\n- Se l'azione parte con i campi vuoti, ora te lo dice invece di rispondere \"Ricevuto\".\n- \"Sincronizza\" avvia il comando sia se si chiama \"Nomorediet Salute\" sia se si chiama \"Invia dati Salute a Nomorediet\".",
+          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.9.6-35/Nomorediet.ipa",
+          "size": 20578529,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "4.9.5",
           "buildVersion": "34",
           "date": "2026-10-05",
@@ -93,15 +102,6 @@
           "localizedDescription": "- Accanto a Colazione, Pranzo, Spuntini e Cena ci sono due icone: 📷 foto e codice a barre, a un tocco.\n- Ogni foto cerca anche il codice a barre: se c'è, il prodotto viene preso dal database (valori esatti dell'etichetta). Altrimenti l'app legge il nome e il tipo di prodotto scritti sulla confezione e li usa per riconoscerlo (anche senza AI, cercandolo nel database).\n- Tolta la foto 3D (LiDAR).",
           "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.6-25/Nomorediet.ipa",
           "size": 10704179,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "4.5",
-          "buildVersion": "24",
-          "date": "2026-10-04",
-          "localizedDescription": "- La scheda è quella del tuo Google Calendar (Ciclo 2): A1 Petto/Schiena lunedì, A2 Quadricipiti/Adduttori martedì, B1 Spalle/Braccia giovedì, B2 Femorali/Glutei venerdì, con jump set, recuperi, dropset 🔻 e alternative \"se occupato\". Il giorno di oggi è segnato \"OGGI\".\n- Mesi del ciclo applicati da soli: mese 1 base, mese 2 tempo 3-1-1-0 e carichi −10%, scarico 12–18/10, mese 3 rest-pause e dropset doppi dal 19/10.\n- \"Aggiorna\" legge di nuovo la scheda dal Calendario dell'iPhone (con l'account Google aggiunto): un nuovo ciclo scritto nel Calendar arriva nell'app senza aggiornamenti. Puoi tornare alla scheda Nomorediet dal selettore.\n- Correggere gli errori: tocca una serie per cambiare peso, ripetizioni o RIR, oppure il cestino per eliminarla (con conferma). Nuovo \"Storico serie\" (icona orologio): modifica, scorri per eliminare o elimina un giorno intero.",
-          "downloadURL": "https://github.com/Redwraith/nomorediet-updates/releases/download/v4.5-24/Nomorediet.ipa",
-          "size": 10707902,
           "minOSVersion": "18.0"
         }
       ],
